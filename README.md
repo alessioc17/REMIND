@@ -17,6 +17,6 @@ Requirements: Python3 (numpy, pandas, mahotas, nibabel, Dcm2niix); Freesurfer; F
 
 If you use **REMIND** in your research, please cite it as:
 
-Alessio C. (2025). *REMIND: Regional Extraction and analysis of MRI and PET features for Integrated Diagnostics* (Version 1.0.0). Zenodo. https://doi.org/10.5281/zenodo.15410109
+Cirone, A., Campi, C.& Garbarino, S. (2025). alessioc17/REMIND: REMIND - Regional Extraction and analysis of MRI and PET features for INtegrated Diagnostics (Version v1.0.1) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.15410842
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15410109.svg)](https://doi.org/10.5281/zenodo.15410109)
